@@ -1,5 +1,5 @@
 # instagram_find_not_following
-Simple Python script to comparing following's and followers
+Simple Python script to compare following's and followers
 
 ## Instructions
 1. Request and download your account's data through the Instagram website.
